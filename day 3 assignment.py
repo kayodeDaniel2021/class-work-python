@@ -1,0 +1,1 @@
+using the folowing set of code created by youif else statement, nested dictionary, while loop. for loop in both list and tuples, while count, while true explain it using comment and give an example of each.
